@@ -337,7 +337,7 @@ export default function ServicePage() {
                             },
                             {
                                 question: "Can I use Spotimood with my existing music service?",
-                                answer: "Yes! Spotimood integrates with popular music streaming services including Spotify, Apple Music, and YouTube Music to create playlists on your preferred platform."
+                                answer: "Yes! Spotimood integrates with popular music streaming services including Apple Music and YouTube Music to create playlists on your preferred platform."
                             },
                             {
                                 question: "Is my emotional data private and secure?",
